@@ -9,7 +9,7 @@
 
 	<!-- 라이브러리 버전 관리 -->
 	<properties>
-		<org.springframework-version>4.3.2.RELEASE</org.springframework-version>
+		<org.springframework-version>5.3.18</org.springframework-version>
 		<junit-version>4.12</junit-version>
 		<mysql-version>8.0.18</mysql-version>
 		<org.mybatis-version>3.5.5</org.mybatis-version>
